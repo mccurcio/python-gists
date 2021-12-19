@@ -4,11 +4,11 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 ---
 
-1. [ Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/6dfa452f8a061aa25a1033e42db48873)
-
 1. [0601 Wholesale Customer Data Notebook EDA]()
 
 1. [Alias library names.ipynb](https://gist.github.com/mccurcio/43d66469e4e49e85c8c23c1dca87552b)
+
+1. [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/6dfa452f8a061aa25a1033e42db48873)
 
 1. [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/74cb85ff3ce6e4c4cad661507d8687ef)
 
@@ -112,7 +112,7 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Permutations using itertools.ipynb](https://gist.github.com/mccurcio/98f9e3d0df4a562ace3bb34568d6c3c6)
 
-1. [Popular Python Libraries.ipynb]https://gist.github.com/mccurcio/8bac0cd6fe9454a8759096490bf33d7b
+1. [Popular Python Libraries.ipynb](https://gist.github.com/mccurcio/8bac0cd6fe9454a8759096490bf33d7b)
 
 1. [Pretty Printing data in one-liner format.ipynb](https://gist.github.com/mccurcio/b22963565ed49e8c8183765d20cfef0e)
 
@@ -120,11 +120,11 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Python - Beginner Recommendations.ipynb]()
 
-1. [Python - Sort a file line by line.ipynb](https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56
+1. [Python - Sort a file line by line.ipynb](https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)
 
 1. [Python 3.9 - reversed() works with a dictionary.ipynb](https://gist.github.com/mccurcio/210569cf5fb045da01c85dcd63acd47a)
 
-1. [Python Dictionary Tips and Tricks.ipynb](https://gist.github.com/mccurcio/9de7513860b7de0634cab50acf724a60)https://gist.github.com/mccurcio/c7703275b75ad3358cd5f1e99292c6fb
+1. [Python Dictionary Tips and Tricks.ipynb](https://gist.github.com/mccurcio/9de7513860b7de0634cab50acf724a60)
 
 1. [Python List Basics.ipynb]()
 
@@ -178,7 +178,7 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [While Loop in One Line.ipynb](https://gist.github.com/mccurcio/c168baaa695d9b891ca9ee203ee161f4)
 
-1. [\_\_str\_\_ __repr__.ipynb](https://gist.github.com/mccurcio/0388917809235a2d054559c7b094ec2c)
+1. [\_\_str\_\_ \_\_repr\_\_.ipynb](https://gist.github.com/mccurcio/0388917809235a2d054559c7b094ec2c)
 
 1. [flatten alist using sum.ipynb-Untitled2.ipynb](https://gist.github.com/mccurcio/66ec477ae203292db546355f9126aac1)
 
