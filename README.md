@@ -4,13 +4,11 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 ---
 
+1. [ Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/6dfa452f8a061aa25a1033e42db48873)
+
 1. [0601 Wholesale Customer Data Notebook EDA]()
 
-1. [A Match-Case Statement Using A Dictionary.ipynb](https://gist.github.com/mccurcio/9759fbc38e2117f44e1f1a82480a65eb)
-
 1. [Alias library names.ipynb](https://gist.github.com/mccurcio/43d66469e4e49e85c8c23c1dca87552b)
-
-1. [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/6dfa452f8a061aa25a1033e42db48873)
 
 1. [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/74cb85ff3ce6e4c4cad661507d8687ef)
 
@@ -48,6 +46,8 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Expand Ipython to 100% width.ipynb](https://gist.github.com/mccurcio/aec66854480a99076d28b04074df564b)
 
+1. [F-strings in Python 3.9.ipynb]()
+
 1. [Find Prime Number in One Line.ipynb](https://gist.github.com/mccurcio/d80d92ba1c9ec011f28f2cfe9cbdadc7)
 
 1. [Find Values From A Dictionary.ipynb]()
@@ -72,6 +72,8 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [If Else Statement in One Line.ipynb](https://gist.github.com/mccurcio/f037f9e3b6e07f1553800e93fdeca9c5)
 
+1. [If elif & else.ipynb](https://gist.github.com/mccurcio/c93ba941dfc18325ea1f3d40c2d7f7fb)
+
 1. [Introduction to Pandas dataframes.ipynb]()
 
 1. [Ipython Automagic Commands]()
@@ -83,6 +85,8 @@ Python Snippets: This list of snippets is collected from studying Python.
 1. [List Files In A Directory.ipynb](https://gist.github.com/mccurcio/a1c7b164eaa744f05c6672f417c4a4aa)
 
 1. [Map Function and Lambda function.ipynb](https://gist.github.com/mccurcio/05970d0bd74530d548e896f5d835ac47)
+
+1. [Match-Case Statement Using A Dictionary.ipynb](https://gist.github.com/mccurcio/9759fbc38e2117f44e1f1a82480a65eb)
 
 1. [Mode max and set.ipynb](https://gist.github.com/mccurcio/91922d477721811b92b7371b578c6b1d)
 
@@ -108,7 +112,7 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Permutations using itertools.ipynb](https://gist.github.com/mccurcio/98f9e3d0df4a562ace3bb34568d6c3c6)
 
-1. [Popular Python Libraries.ipynb](https://gist.github.com/mccurcio/8bac0cd6fe9454a8759096490bf33d7b)
+1. [Popular Python Libraries.ipynb]https://gist.github.com/mccurcio/8bac0cd6fe9454a8759096490bf33d7b
 
 1. [Pretty Printing data in one-liner format.ipynb](https://gist.github.com/mccurcio/b22963565ed49e8c8183765d20cfef0e)
 
@@ -116,11 +120,11 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Python - Beginner Recommendations.ipynb]()
 
-1. [Python - Sort a file line by line.ipynb](https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)
+1. [Python - Sort a file line by line.ipynb](https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56
 
 1. [Python 3.9 - reversed() works with a dictionary.ipynb](https://gist.github.com/mccurcio/210569cf5fb045da01c85dcd63acd47a)
 
-1. [Python Dictionary Tips and Tricks.ipynb](https://gist.github.com/mccurcio/9de7513860b7de0634cab50acf724a60)
+1. [Python Dictionary Tips and Tricks.ipynb](https://gist.github.com/mccurcio/9de7513860b7de0634cab50acf724a60)https://gist.github.com/mccurcio/c7703275b75ad3358cd5f1e99292c6fb
 
 1. [Python List Basics.ipynb]()
 
@@ -174,15 +178,11 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [While Loop in One Line.ipynb](https://gist.github.com/mccurcio/c168baaa695d9b891ca9ee203ee161f4)
 
-1. [__str__ __repr__.ipynb](https://gist.github.com/mccurcio/0388917809235a2d054559c7b094ec2c)
-
-1. [f-strings in Python 3.9.ipynb]()
+1. [\_\_str\_\_ __repr__.ipynb](https://gist.github.com/mccurcio/0388917809235a2d054559c7b094ec2c)
 
 1. [flatten alist using sum.ipynb-Untitled2.ipynb](https://gist.github.com/mccurcio/66ec477ae203292db546355f9126aac1)
 
 1. [https://gist.github.com/mccurcio/ Untitled2.ipynb](https://gist.github.com/mccurcio/412c9337bdec8e1a36beac07ce1f6bd3)
-
-1. [if elif & else.ipynb](https://gist.github.com/mccurcio/c93ba941dfc18325ea1f3d40c2d7f7fb)
 
 1. [list_builtins.ipynb](https://gist.github.com/mccurcio/9272cbc300e2e1aab26058f1450dbc6c)
 
