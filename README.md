@@ -28,7 +28,7 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Colored Text.ipynb](https://gist.github.com/mccurcio/f395c7d8825cc8c6b01bb4db10d95100)
 
-1. [Commands to install Spell Checker ipnb extension]()()
+1. [Commands to install Spell Checker ipnb extension]()
 
 1. [Common String Methods.ipynb](https://gist.github.com/mccurcio/8b8e214b23fdc6d08c02179ad7c66abf)
 
@@ -86,7 +86,7 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Mode max and set.ipynb](https://gist.github.com/mccurcio/91922d477721811b92b7371b578c6b1d)
 
-1. [Monetizing Machine Learning]()()
+1. [Monetizing Machine Learning]()
 
 1. [Mortgage_Calculator]()
 
@@ -116,11 +116,11 @@ Python Snippets: This list of snippets is collected from studying Python.
 
 1. [Python - Beginner Recommendations.ipynb]()
 
-1. [Python - Sort a file line by line.ipynb](https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)(https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)
+1. [Python - Sort a file line by line.ipynb](https://gist.github.com/mccurcio/ea6474cb40dee1bb5e3b3ed24d85ce56)
 
 1. [Python 3.9 - reversed() works with a dictionary.ipynb](https://gist.github.com/mccurcio/210569cf5fb045da01c85dcd63acd47a)
 
-1. [Python Dictionary Tips and Tricks.ipynb](https://gist.github.com/mccurcio/9de7513860b7de0634cab50acf724a60)(https://gist.github.com/mccurcio/c7703275b75ad3358cd5f1e99292c6fb)
+1. [Python Dictionary Tips and Tricks.ipynb](https://gist.github.com/mccurcio/9de7513860b7de0634cab50acf724a60)
 
 1. [Python List Basics.ipynb]()
 
