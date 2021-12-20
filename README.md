@@ -4,7 +4,7 @@ This list was collected from studying Python.
 
 ---
 
-| | |
+| Python | Gists |
 |:-:|:-:|
 | [Alias library names.ipynb](https://gist.github.com/mccurcio/43d66469e4e49e85c8c23c1dca87552b) | [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/978043217a642873c0112ccec6e6d482) |
 
