@@ -1,6 +1,8 @@
 ### Python snippets
 
-This list was collected from studying Python.
+This list was collected from studying Python. I love [Gist-it](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) to save my snippets.
+
+Here is my notes on Jupyter Notebook-[Gist-it]()
 
 ---
 
@@ -167,20 +169,6 @@ This list was collected from studying Python.
 - **CHECK** [Https://gist.github.com/mccurcio/ Untitled2.ipynb](https://gist.github.com/mccurcio/412c9337bdec8e1a36beac07ce1f6bd3)
 
 - **CHECK** [Kaggle_Python_Course_Final_Exercise.ipynb](https://gist.github.com/mccurcio/819081455bfa011eb212eaf189b387b9)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
