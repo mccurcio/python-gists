@@ -2,7 +2,7 @@
 
 This list was collected from studying Python. I love [Gist-it](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) to save my snippets.
 
-**UNDER CONSTRUCTION**: Here is my notes on Jupyter Notebook-[Gist-it]()
+**UNDER CONSTRUCTION**: Here is how to get going with Jupyter Notebook-[Gist-it]()
 
 ---
 
