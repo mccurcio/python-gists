@@ -4,10 +4,8 @@ This list was collected from studying Python.
 
 ---
 
-| Python | Gists |
+| A | B |
 |:-:|:-:|
-
-
 | [Alias library names.ipynb](https://gist.github.com/mccurcio/43d66469e4e49e85c8c23c1dca87552b) | [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/978043217a642873c0112ccec6e6d482) |
 | [Chain Lists Together.ipynb](https://gist.github.com/mccurcio/e660fd05f65f3fdde7337ecb7e557739) | [Change Ipython Cell Width.ipynb](https://gist.github.com/mccurcio/b3ee264b96a79ef9ed5b906a01d8de49) |
 
