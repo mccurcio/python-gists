@@ -7,9 +7,16 @@ This list was collected from studying Python. I love [Gist-it](https://jupyter-c
 ---
 
 
-| A | B |
-|:-:|:-:|
-| | |
+### Table of Contents
+
+| A            | B                        |
+|:-------------|:-------------------------|
+| Basics       | Strings                  |
+| Lists        | Conditionals             |
+| Dictionaries | Pandas                   |
+| Numpy        | Ipython Notebook Related |
+| Odds & Ends  |                          |
+
 
 ### Basics
 
