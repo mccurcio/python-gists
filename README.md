@@ -60,11 +60,7 @@
 
 1. [F-strings in Python 3.9.ipynb ??](https://gist.github.com/mccurcio/8aa00389bd516529cab5d3a7e3508e03)
 
-1. [String Basics.ipynb](https://gist.github.com/mccurcio/1ab31f6a4f1ca9043d23ad69c1823d58)
-
-1. [String Basics.ipynb](https://gist.github.com/mccurcio/900343d8ae8be415c1e8fceb7da5c8e2)
-
-1. [String Basics.ipynb](https://gist.github.com/mccurcio/ad8f9cad006bcd8d3a68b724f56d162b)
+1. [Python String Basics.ipynb](https://gist.github.com/mccurcio/ad8f9cad006bcd8d3a68b724f56d162b)
 
 
 ---
