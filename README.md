@@ -7,37 +7,6 @@
 ---
 
 
-<h1 class="title">
-    True Happiness
-</h1>
-<div id="TOC">
-    <ul>
-        <li>
-            <a href="#introduction">Introduction</a>
-        </li>
-        <li>
-            <a href="#first-attempts">First Attempts</a>
-        </li>
-    </ul>
-</div>
-<div id="introduction">
-    <h2>
-        <a href="#TOC">Introduction</a>
-    </h2>
-    <p>
-        Many have posed the question of true happiness. In this blog post we propose to solve it.
-    </p>
-</div>
-<div id="first-attempts">
-    <h2>
-        <a href="#TOC">First Attempts</a>
-    </h2>
-    <p>
-        The earliest attempts at attaining true happiness of course aimed at pleasure. Soon, though, the downside of pleasure was revealed.
-    </p>
-</div>
-
-
 ### Table of Contents
 
 | A                             | B                                                     |
@@ -45,8 +14,8 @@
 | [Basics](#Basics)             | [Strings](#Stings)                                    |
 | [Lists](#Strings)             | [Conditionals](#Conditionals)                         |
 | [Dictionaries](#Dictionaries) | [Pandas](#Pandas)                                     |
-| [Numpy](#Numpy)               | [Ipython-Notebook-Related](#Ipython Notebook Related) |
-| [Odds-&-Ends](#Odds & Ends)   |                                                       |
+| [Numpy](#Numpy)               | [Ipython Notebook Related](#Ipython-Notebook-Related) |
+| [Odds & Ends](#Odds-&-Ends)   |                                                       |
 |  |  |
 
 
