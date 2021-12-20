@@ -9,13 +9,15 @@
 
 ### Table of Contents
 
-| A            | B                        |
-|:-------------|:-------------------------|
-| Basics       | Strings                  |
-| Lists        | Conditionals             |
-| Dictionaries | Pandas                   |
-| Numpy        | Ipython Notebook Related |
-| Odds & Ends  |                          |
+| A                             | B                                                     |
+|:------------------------------|:------------------------------------------------------|
+| [Basics](#Basics)             | [Strings](#Stings)                                    |
+| [Lists](#Strings)             | [Conditionals](#Conditionals)                         |
+| [Dictionaries](#Dictionaries) | [Pandas](#Pandas                                      |
+| [Numpy](#Numpy)               | [Ipython Notebook Related](#Ipython Notebook Related) |
+| [Odds & Ends](#Odds & Ends)   |                                                       |
+|  |  |
+
 
 
 ### Basics
