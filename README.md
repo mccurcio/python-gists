@@ -23,7 +23,7 @@
 ### Basics
 
 
-1. **CHECK** [Python - Beginner Recommendations.ipynb ??]()
+- [ ] **CHECK** [Python - Beginner Recommendations.ipynb ??]()
 
 1. [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/978043217a642873c0112ccec6e6d482)
 
@@ -43,15 +43,16 @@
 
 1. [Python Operator Precedence & PEMDAS.ipynb](https://gist.github.com/mccurcio/5e0bf3c0ceec2f2fa1fc42cc32228aa4)
 
-1. **CHECK** [Python Operator Precedence – PEMDAS.ipynb ??]()
+- [ ] **CHECK** [Python Operator Precedence – PEMDAS.ipynb ??]()
 
 1. [Read File in One Line.ipynb](https://gist.github.com/mccurcio/72f99f56a33466bf79ed5e6a23e50f2d)
 
 1. [Read_Json in Python.ipynb](https://gist.github.com/mccurcio/d03466bd53da7f32e923b5f12fdb17f6)
 
-1. **CHECK** [Tuples & Named Tuples.ipynb ??]()
-
 1. [Tuples & Named Tuples.ipynb](https://gist.github.com/mccurcio/094cf82cef0467fdee03f73c7a1b6c61)
+
+- [ ] **CHECK** [Tuples & Named Tuples.ipynb ??]()
+
 
 ---
 
@@ -77,9 +78,9 @@
 
 1. [Pairing lists.ipynb](https://gist.github.com/mccurcio/bd82de6ddc9192bbea5c702930c68d72)
 
-1. **CHECK** [Python List Basics.ipynb ??]()
-
 1. [Python List Basics.ipynb](https://gist.github.com/mccurcio/802489d896684d623f6d5a30fe011756)
+
+- [ ] **CHECK** [Python List Basics.ipynb ??]()
 
 
 
@@ -92,16 +93,15 @@
 
 1. [If elif & else.ipynb](https://gist.github.com/mccurcio/c93ba941dfc18325ea1f3d40c2d7f7fb)
 
-1. **CHECK** [Continue & Break Loops.ipynb]()
-
-1. **CHECK-keep?** [Continue & Break Loops.ipynb](https://gist.github.com/mccurcio/4ad89bbe0b10f2a886ea3ef60a523a68)
-
 1. [While Loop in One Line.ipynb](https://gist.github.com/mccurcio/c168baaa695d9b891ca9ee203ee161f4)
 
 1. [Simplify if statement.ipynb](https://gist.github.com/mccurcio/782ef183f9f77913badfb747a70f5b5c)
 
 1. [Use of Ternary operator for conditional assignment.ipynb](https://gist.github.com/mccurcio/06e37c34e871b99bf09aec378e6269c5)
 
+- [ ] **CHECK** [Continue & Break Loops.ipynb]()
+
+- [ ] **CHECK-keep?** [Continue & Break Loops.ipynb](https://gist.github.com/mccurcio/4ad89bbe0b10f2a886ea3ef60a523a68)
 
 ---
 
@@ -133,7 +133,7 @@
 
 ### Pandas
 
-1. **CHECK** [Introduction to Pandas dataframes.ipynb ??]()
+- [ ] **CHECK** [Introduction to Pandas dataframes.ipynb ??]()
 
 ----
 
@@ -149,14 +149,13 @@
 
 ### Ipython Notebook Related
 
-[] [How to install Notebook Extensions()
-
-
 1. [Convert IPython Notebooks to HTML.ipynb](https://gist.github.com/mccurcio/e6e0cfc74b8ed4b290531e113b1c10d8)
 
 1. [Expand Ipython to 100% width.ipynb](https://gist.github.com/mccurcio/aec66854480a99076d28b04074df564b)
 
-[] **CHECK** [Ipython Automagic Commands ??]()
+- [ ] **CHECK** [Ipython Automagic Commands ??]()
+
+- [ ] [How to install Notebook Extensions()
 
 
 
@@ -195,10 +194,9 @@
 
 1. [How to extract href from HTML files.ipynb](https://gist.github.com/mccurcio/c13c0c36975a9237c5c623b648be34d0)
 
-1. **UPDATE** [One-Line Password Generator.ipynb](https://gist.github.com/mccurcio/57bda64a015a8622b1c449450b52f6e9)
-
 1. [Produce Random Letters In Any Length.ipynb](https://gist.github.com/mccurcio/d03466bd53da7f32e923b5f12fdb17f6)
 
+- [ ] **UPDATE** [One-Line Password Generator.ipynb](https://gist.github.com/mccurcio/57bda64a015a8622b1c449450b52f6e9)
 
 ######################################################
 
@@ -209,10 +207,6 @@
 1. [Map Function and Lambda function.ipynb](https://gist.github.com/mccurcio/05970d0bd74530d548e896f5d835ac47)
 
 1. [Mode max and set.ipynb](https://gist.github.com/mccurcio/91922d477721811b92b7371b578c6b1d)
-
-1. **CHECK** [Monetizing Machine Learning ??]()
-
-1. **CHECK** [Mortgage_Calculator ??]()
 
 1. [Permutations using itertools.ipynb](https://gist.github.com/mccurcio/98f9e3d0df4a562ace3bb34568d6c3c6)
 
@@ -236,7 +230,10 @@
 
 1. [\_\_str\_\_ \_\_repr\_\_.ipynb](https://gist.github.com/mccurcio/0388917809235a2d054559c7b094ec2c)
 
-- **CHECK** [Https://gist.github.com/mccurcio/ Untitled2.ipynb](https://gist.github.com/mccurcio/412c9337bdec8e1a36beac07ce1f6bd3)
+- [ ] **CHECK** [Https://gist.github.com/mccurcio/ Untitled2.ipynb](https://gist.github.com/mccurcio/412c9337bdec8e1a36beac07ce1f6bd3)
 
-- **CHECK** [Kaggle_Python_Course_Final_Exercise.ipynb](https://gist.github.com/mccurcio/819081455bfa011eb212eaf189b387b9)
+- [ ] **CHECK** [Kaggle_Python_Course_Final_Exercise.ipynb](https://gist.github.com/mccurcio/819081455bfa011eb212eaf189b387b9)
 
+- [ ] **CHECK** [Monetizing Machine Learning ??]()
+
+- [ ] **CHECK** [Mortgage_Calculator ??]()
