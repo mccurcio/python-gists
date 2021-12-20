@@ -23,8 +23,6 @@
 ### Basics
 
 
-- [ ] **CHECK** [Python - Beginner Recommendations.ipynb ??]()
-
 1. [Arithmetic Basics.ipynb](https://gist.github.com/mccurcio/978043217a642873c0112ccec6e6d482)
 
 1. [Multi Assignments.ipynb](https://gist.github.com/mccurcio/666ad2f16a2e13a56cfbd2e42d8698b2)
@@ -53,6 +51,7 @@
 
 - [ ] **CHECK** [Tuples & Named Tuples.ipynb ??]()
 
+- [ ] **CHECK** [Python - Beginner Recommendations.ipynb ??]()
 
 ---
 
