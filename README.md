@@ -1,6 +1,6 @@
 ### Python snippets
 
-- This list was collected from studying Python. 
+- This list was collected from my studies of Python. 
 - I use [Gist-it](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) to save my Ipython Notebook snippets.
 - **UNDER CONSTRUCTION**: Here is how to get going with Jupyter Notebook-[Gist-it]()
 
