@@ -15,8 +15,6 @@
 | [Dictionaries](#Dictionaries) | [Pandas](#Pandas)                                     |
 | [Numpy](#Numpy)               | [Ipython Notebook Related](#Ipython-Notebook-Related) |
 | [Odds & Ends](#Odds-&-Ends)   |                                                       |
-|  |  |
-
 
 
 ### Basics
